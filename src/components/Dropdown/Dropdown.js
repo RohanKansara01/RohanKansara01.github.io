@@ -5,7 +5,7 @@ import { Link as ScrollLink } from "react-scroll";
 import { Resume2 } from "../Resume/Resume";
 
 const SiderBar = styled.div`
-  background: #151418;
+  background: #fff;
   position: fixed;
   height: 100%;
   width: 100%;
@@ -23,7 +23,7 @@ const SiderBar = styled.div`
 
 const CloseIcon = styled(FaTimes)`
   font-size: 2rem;
-  color: #fff;
+  color: #000000;
   position: absolute;
   right: 2rem;
   top: 2rem;
@@ -41,7 +41,7 @@ export const NavMenu = styled.div`
 `;
 
 export const NavLink = styled(ScrollLink)`
-  color: #fff;
+  color: #000000;
   cursor: pointer;
   font-size: 1.7rem;
 

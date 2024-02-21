@@ -53,7 +53,7 @@ export const Logo = styled(LinkRouter)`
 
 export const Bars = styled(FaBars)`
   display: none;
-  color: #fff;
+  color: #000000;
   font-size: 1.8rem;
   cursor: pointer;
   @media screen and (max-width: 820px) {
