@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a842c10.css",
-    "main.js": "/static/js/main.622ed7e5.js",
+    "main.js": "/static/js/main.c12b576b.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/online_auto_part_shop.PNG": "/static/media/online_auto_part_shop.cafcaa60cee4231d5216.PNG",
     "static/media/boat_website.PNG": "/static/media/boat_website.5e3ef033bff30a6db9d1.PNG",
@@ -11,11 +11,11 @@
     "static/media/rohan.jpg": "/static/media/rohan.a891eb62d6b08c14bdfc.jpg",
     "index.html": "/index.html",
     "main.2a842c10.css.map": "/static/css/main.2a842c10.css.map",
-    "main.622ed7e5.js.map": "/static/js/main.622ed7e5.js.map",
+    "main.c12b576b.js.map": "/static/js/main.c12b576b.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a842c10.css",
-    "static/js/main.622ed7e5.js"
+    "static/js/main.c12b576b.js"
   ]
 }
